@@ -1,5 +1,6 @@
 # BoundedBuffer
-
+Colby Morris
+ccolbymorris@gmail.com
 *******************PURPOSE***********************
 This is a program designed to show different threads running simultaneously.
 I have created two consumer threads and two producer threads. Once the 
